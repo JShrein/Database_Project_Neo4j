@@ -1,7 +1,7 @@
 <?php
 $SERVER = 'localhost';
 $USER = 'COMP7115';
-$PASS = 'ItsTrueHeReallyDoes';
+$PASS = 'ItsTrueHeReallyIs';
 $DATABASE = 'comp7115_project';
 
 $link = mysqli_connect($SERVER, $USER, $PASS, $DATABASE);
